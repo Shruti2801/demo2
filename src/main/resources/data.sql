@@ -1,0 +1,2 @@
+--INSERT INTO STUDENT VALUES (11, 'Delhi');
+--insert into STUDENT values (11, 'Delhi');
